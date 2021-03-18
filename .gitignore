@@ -1,0 +1,72 @@
+#01 - fundamentos-react
+
+# dependencies
+/fundamentos-react/node_modules
+/fundamentos-react.pnp
+/fundamentos-react.pnp.js
+
+# testing
+/fundamentos-react/coverage
+
+# production
+/fundamentos-react/build
+
+# misc
+/fundamentos-react.DS_Store
+/fundamentos-react.env.local
+/fundamentos-react.env.development.local
+/fundamentos-react.env.test.local
+/fundamentos-react.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+#02 - navigation
+
+# dependencies
+/navigation/node_modules
+/navigation.pnp
+/navigation.pnp.js
+
+# testing
+/navigation/coverage
+
+# production
+/navigation/build
+
+# misc
+/navigation.DS_Store
+/navigation.env.local
+/navigation.env.development.local
+/navigation.env.test.local
+/navigation.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+#03 - react-hooks
+
+# dependencies
+/react-hooks/node_modules
+/react-hooks.pnp
+/react-hooks.pnp.js
+
+# testing
+/react-hooks/coverage
+
+# production
+/react-hooks/build
+
+# misc
+/react-hooks.DS_Store
+/react-hooks.env.local
+/react-hooks.env.development.local
+/react-hooks.env.test.local
+/react-hooks.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
